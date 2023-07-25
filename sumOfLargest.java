@@ -10,7 +10,8 @@ public class Main {
         int num3 = scanner.nextInt();
 
         int sumOfLargest = calculateSumOfLargest(num1, num2, num3);
-        System.out.println("Sum of the largest number: " + sumOfLargest);
+System.out.println("Sum of the largest number : " + sumOfLargest);
+        System.out.println("Sum of the largest number : " + sumOfLargest);
 
         scanner.close();
     }
